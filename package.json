@@ -1,0 +1,16 @@
+{
+  "name": "projeto_agencia",
+  "version": "1.0.0",
+  "description": "Projeto Final de Agência",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "author": "Larissa",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.0.2"
+  }
+}
